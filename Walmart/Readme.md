@@ -4,6 +4,7 @@
  <thead>
    <th>Problems</th>
    <th>Links</th>
+  <th>Solutions</th>
  </thead>
  <tr>
    <td>Path with Maximum Probability</td>
@@ -12,6 +13,7 @@
  <tr>
    <td>Stone Game</td>
    <td><a href="https://leetcode.com/problems/stone-game/" target="_blank">LeetCode</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Stone%20Game/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Remove Colored Pieces if Both Neighbors are the Same Color</td>
@@ -20,14 +22,17 @@
  <tr>
    <td>Number of Unique Paths</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/" target="_blank">GeeksforGeeks</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Number%20of%20Unique%20Paths/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Transform to Sum Tree</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/" target="_blank">GeeksforGeeks</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Transform%20to%20Sum%20Tree/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Power Of Numbers</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1" target="_blank">GeeksforGeeks</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Power%20Of%20Numbers/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Sorted subsequence of size 3</td>
