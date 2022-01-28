@@ -9,6 +9,7 @@
  <tr>
    <td>Path with Maximum Probability</td>
    <td><a href="https://leetcode.com/problems/path-with-maximum-probability/" target="_blank">LeetCode</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Path%20with%20Maximum%20Probability/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Stone Game</td>
@@ -37,10 +38,12 @@
  <tr>
    <td>Sorted subsequence of size 3</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/" target="_blank">GeeksforGeeks</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Sorted%20subsequence%20of%20size%203/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Maximum Height Tree</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1" target="_blank">GeeksforGeeks</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Maximum%20Height%20Tree/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Guess Number Higher or Lower II</td>
@@ -61,10 +64,12 @@
  <tr>
    <td>Find the Kth Largest Integer in the Array</td>
    <td><a href="https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/" target="_blank">LeetCode</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Largest number in K swaps</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/" target="_blank">GeeksforGeeks</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Largest%20number%20in%20K%20swaps/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Divide Two Integers</td>
