@@ -59,10 +59,12 @@
  <tr>
    <td>Maximum Performance of a Team</td>
    <td><a href="https://leetcode.com/problems/maximum-performance-of-a-team/" target="_blank">LeetCode</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Maximum%20Performance%20of%20a%20Team/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Find Array Given Subset Sums</td>
    <td><a href="https://leetcode.com/problems/find-array-given-subset-sums/" target="_blank">LeetCode</a></td>
+   <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Find%20Array%20Given%20Subset%20Sums/CPPSolutuion.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
    <td>Find the Kth Largest Integer in the Array</td>
