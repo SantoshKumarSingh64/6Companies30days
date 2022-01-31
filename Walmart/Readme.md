@@ -37,7 +37,7 @@
    <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Power%20Of%20Numbers/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
-   <td>Sorted subsequence of size 3</td>
+   <td>Sorted Subsequence of Size 3</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/" target="_blank">GeeksforGeeks</a></td>
    <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Sorted%20subsequence%20of%20size%203/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
@@ -72,7 +72,7 @@
    <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
  <tr>
-   <td>Largest number in K swaps</td>
+   <td>Largest Number in K Swaps</td>
    <td><a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/" target="_blank">GeeksforGeeks</a></td>
    <td><a href="https://github.com/SantoshKumarSingh64/6Companies30days/blob/main/Walmart/Largest%20number%20in%20K%20swaps/CPPSolution.cpp" target="_blank">Solution</a></td>
   </tr>
